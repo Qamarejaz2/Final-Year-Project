@@ -1,0 +1,17 @@
+google-genai
+pandas
+selenium
+beautifulsoup4            
+PyPDF2          
+Django
+django-cors-headers
+django-rest-swagger
+djangorestframework
+google-cloud-storage
+google-cloud-vision
+# google-generative-language
+vertexai
+python-dotenv
+pymssql
+openai
+cryptography
